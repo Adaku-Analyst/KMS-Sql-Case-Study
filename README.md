@@ -32,3 +32,4 @@ Steps:
 + Imported the dataset using the SSMS Flat File Import Wizard.
 + Changed column data types to optimize performance and ensure data consistency: Sales, Profit, Discount, Shipping_Cost → DECIMAL(10,2) Quantity, Order_ID, Product Count → INT Cleaned column names and removed blank rows.
 + Verified the import success through sampling and quick queries.
+🙌 Author Adaku Nwachukwu 📍 Lagos State, Nigeria 📱 +234 802 269 4082 📧 funminwachukwu@gmail.com
